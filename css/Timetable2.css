@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+
+
+
+.box
+{  
+    color: white;
+text-align: center;
+background-color: rgb(121, 121, 201);
+height: 400x;
+width: 700px;
+padding-left: 0%,5,10,15,20;
+margin-right: 0%,5,10,15,20;
+padding: auto;
+margin: auto;
+}
+.box1{
+    color: red;
+    background-color:white;
+    height:300px;
+    width: 650px;
+    padding:0,5,10,15 ;
+    margin: 0,5,10,15P;
+    padding: auto;
+    margin: auto;
+}
+.box2{
+    table-layout: calc();
+  background-color: aqua;
+  color:black;
+  height: 190px;
+  width: 580px; 
+  padding: 0,5,10,15;
+  margin: 0,5,10,15;
+  padding: auto;
+ margin: auto;
+}

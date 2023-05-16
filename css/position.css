@@ -1,0 +1,29 @@
+*{
+    height: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:black;
+    width: 100%;
+    overflow-x: hidden;
+   
+    
+}
+.box{
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    position: relative;
+    bottom: 0px;
+    left: 0px;
+
+}
+.box1{
+    background-color:yellow;
+    height: 150px;
+    width:150px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}

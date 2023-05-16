@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    height:500px;
+    width: 1000px;
+    background-color:skyblue;
+    position: relative;
+    box-shadow: 10px 20px 30px crimson;
+  
+}
+.box1{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    position: absolute;
+    animation-name: img;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    border-radius: 50%;
+    /*clipupath*/
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%) ;
+
+
+}
+@keyframes img{
+0%{
+    
+    top:0px;
+    left: 150px;
+    opacity: 0;
+    
+    
+}
+25%{
+   
+    top: 100px;
+    left: 250px;
+    opacity: 0.5px;
+}
+50%{
+   
+    top: 200px;
+    left: 375px;
+    opacity: 10px;
+}
+75%{
+   
+    right: 300px;
+    bottom: 400px;
+    opacity: 30px;
+    
+}
+100%{
+   
+    bottom: 0px;
+    right: 800px;
+   opacity: 100px;
+    
+}
+
+}

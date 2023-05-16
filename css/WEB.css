@@ -1,0 +1,258 @@
+*{
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+}
+body
+{
+    background-color: black;
+}
+.box
+{
+    background-color: white;
+    
+    height: 527px;
+    width: 774px;
+    position: relative;
+    top: 24px;
+    left: 212px;
+}
+.box1
+{
+    background-color: white;
+    border: 3px solid black;
+    height: 510px;
+    width: 760px;
+    position: absolute;
+    top: 10px;
+    left: 7px;
+}
+.box2
+{
+    background-color: rgb(118, 28, 28);
+    height: 104px;
+    width: 755px;
+    position: absolute;
+    
+}
+.box3
+{
+    background-color: rgb(224, 219, 137);
+    height: 61px;
+    width: 76px;
+    position: absolute;
+    top: 22px;
+    left: 424px;
+    border-radius:5px ;
+}
+.box4{
+    background-color: rgb(224, 219, 137);
+    height: 61px;
+    width: 76px;
+    position: absolute;
+    top: 22px;
+    left: 505px;
+    border-radius:5px ;
+}
+.box5{
+    background-color: rgb(224, 219, 137);
+    height: 61px;
+    width: 76px;
+    position: absolute;
+    top: 22px;
+    left: 586px;
+    border-radius:5px ;
+}
+.box6
+{
+    background-color: rgb(224, 219, 137);
+    height: 61px;
+    width: 76px;
+    position: absolute;
+    top: 22px;
+    left: 668px;
+    border-radius:5px ;
+}
+.box7{
+    background-color:rgb(49, 44, 44);
+    height: 30px;
+    width: 374px;
+    position: absolute;
+    top: 104px;
+    text-align: center;
+    color: white;
+    
+    
+}
+.home
+{
+   position: absolute;
+   top: 3px;
+   left: 12px;
+
+}
+.news{
+    position: absolute;
+    top: 3px;
+    left:114px;
+}
+.contact{
+    position: absolute;
+    top: 3px;
+    left: 216px;
+}
+.about{
+
+position: absolute;
+top: 3px;
+left: 311px;
+}
+.box8
+{
+    background-color:rgb(27, 83, 27);
+    height: 30px;
+    width: 381px;
+    position: absolute;
+    left: 374px;
+}
+.box9{
+    background-color:skyblue;
+    height: 21px;
+    width: 131px;
+    position: absolute;
+    left: 235px;
+    top: 5px;
+    border-radius: 5px;
+}
+    
+.box10
+{
+    background-color: rgb(145, 136, 50);
+    height: 188px;
+    width: 755px;
+    position: absolute;
+    top: 30px;
+}
+.box11{
+    
+    background-color:black;
+    height: 138px;
+    width: 714px;
+    position: absolute;
+    top: 9px;
+    left: 20px;
+}
+.box12{
+    background-color: rgb(188, 99, 35);
+    height: 25px;
+    width: 69px;
+    top: 113px;
+    left: 46px;
+    position: absolute;
+    border-radius: 6px;
+}
+.box13{
+    background-color: rgb(188, 99, 35);
+    height: 25px;
+    width: 69px;
+    top: 113px;
+    left: 127px;
+    position: absolute;
+    border-radius: 6px;
+}
+.box14{
+    background-color: white;
+    height: 120px;
+    width: 99px;
+    position: absolute;
+    border-radius: 5px;
+    top: 30px;
+    left: 605px;
+    border: 1px solid black;
+   
+} 
+
+   
+
+.box15
+{
+    background-color: blue;
+    height: 40px;
+    width: 714px;
+    position: absolute;
+    top: 147px;
+    left: 20px;
+}
+.box16{
+    background-color: white;
+    height: 120px;
+    width: 99px;
+    position: absolute;
+    border-radius: 5px;
+    top: 55px;
+    left: 540px;
+    border: 1px solid black;
+}
+.box17{
+    background-color: palevioletred;
+    height: 183px;
+    width: 377px;
+    position: absolute;
+    top: 218px;
+    
+}
+.box18
+{
+    background-color: rgb(0, 255, 255);
+    height: 47px;
+    width: 340px;
+    top: 136px;
+    left: 15px;
+    position: absolute;
+    border-radius: 5px;
+    border: 0.5px solid black;
+}
+.box19{
+    background-color:rgb(49, 44, 44);
+    height: 30px;
+    width: 366px;
+    position: absolute;
+    top: 20px;
+    text-align: center;
+    color: white;
+    left: 382px;
+    
+    
+}
+.homes
+{
+   position: absolute;
+   top: 3px;
+   left: 12px;
+
+}
+.new{
+    position: absolute;
+    top: 3px;
+    left:114px;
+}
+.contacts{
+    position: absolute;
+    top: 3px;
+    left: 216px;
+}
+.abouts{
+
+position: absolute;
+top: 3px;
+left: 311px;
+}
+.box20{
+    background-color: rgb(127, 255, 212);
+    height: 122px;
+    width: 366px;
+    top: 28px;
+    left: 0px;
+    position: absolute;
+    border: 1px solid black;
+}

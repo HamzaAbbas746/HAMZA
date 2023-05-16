@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+   
+}
+.box{
+    color: red;
+     text-align: center;
+ background-color:rgb(102, 154, 102);
+ height: 60vh;
+ width: 60%;
+ padding-left: 5,10,15,20;
+ margin-right: 5,10,15,20;
+ padding: auto;
+ margin: auto;
+ border-radius: 150%;
+ border-style: auto;
+ border-bottom-color: rgb(175, 133, 196);
+ border-top-color: rgb(55, 65, 103);
+ border-left-color: red;
+ border-right-color: rgb(45, 9, 9);
+ 
+}
+.image{
+    background-color: black;
+    background-image: url(..//css/rana/1670410356108-image\ \(1\).jpg);
+    background-size: cover;
+    background-position: top;
+    height: 30vh;
+ width: 30%;
+ padding-left: 5,10,15,20;
+ margin-right: 5,10,15,20;
+ padding: auto;
+ margin: auto;
+
+}
+
+ 
+  
+    
+   
+
+}
